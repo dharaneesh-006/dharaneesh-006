@@ -1,7 +1,7 @@
 <center>
   <h1 align="center"># 👋 Hi, I'm Dharaneesh </h1>  <br><br>💻 **Student | Developer | Tech Enthusiast**  <br><br>🚀 Passionate about exploring new technologies, building cool projects, and continuously learning.  <br>Currently diving deep into **Full-Stack Development (MERN, Spring Boot, Flutter)** and sharpening my problem-solving skills with **Competitive Programming**.  <br><br>
 ### 🌟 About Me<br>- 🎓 CS Student always curious about **how things work**  <br>- 💡 Love turning ideas into **real-world applications**  <br>- 🔭 Currently learning **React, Spring Boot, and Firebase**  <br>- 🏆 Interested in **Competitive Programming & Open Source Contributions**  <br>- 🎯 Goal: Become a **versatile full-stack developer** and contribute to impactful projects  <br><br>
-### 🛠️ Tech Stack<br>- **Languages:** C, C++, Java, Python, JavaScript, TypeScript  <br>- **Frontend:** React.js, Flutter, TailwindCSS  <br>- **Backend:** Spring Boot, Node.js, Express.js  <br>- **Databases:** MySQL, MongoDB, Firebase  <br>- **Other Tools:** Git, Vite, Eclipse, VS Code  <br><br>---<br><br>⭐️ *“Code. Learn. Build. Repeat.”*
+### 🛠️ Tech Stack<br>- **Languages:** C, C++, Java, Python, JavaScript, TypeScript  <br>- **Frontend:** React.js,TailwindCSS  <br>- **Backend:** Spring Boot, Node.js, Express.js  <br>- **Databases:** MySQL, MongoDB, Firebase  <br>- **Other Tools:** Git, Vite, Eclipse, VS Code  <br><br>---<br><br>⭐️ *“Code. Learn. Build. Repeat.”*
 </center>
 
 ###
