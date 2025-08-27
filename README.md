@@ -1,8 +1,6 @@
-<center>
-  <h1 align="center"># 👋 Hi, I'm Dharaneesh </h1>  <br><br><b>💻 **Student | Developer | Tech Enthusiast**</b>  <br><br>🚀 Passionate about exploring new technologies, building cool projects, and continuously learning.  <br>Currently diving deep into **Full-Stack Development (MERN, Spring Boot, Flutter)** and sharpening my problem-solving skills with **Competitive Programming**.  <br><br>
+<h1 align="center"># 👋 Hi, I'm Dharaneesh  <br><br>💻 **Student | Developer | Tech Enthusiast**  <br><br>🚀 Passionate about exploring new technologies, building cool projects, and continuously learning.  <br>Currently diving deep into **Full-Stack Development (MERN, Spring Boot, Flutter)** and sharpening my problem-solving skills with **Competitive Programming**.  <br><br>
 ### 🌟 About Me<br>- 🎓 CS Student always curious about **how things work**  <br>- 💡 Love turning ideas into **real-world applications**  <br>- 🔭 Currently learning **React, Spring Boot, and Firebase**  <br>- 🏆 Interested in **Competitive Programming & Open Source Contributions**  <br>- 🎯 Goal: Become a **versatile full-stack developer** and contribute to impactful projects  <br><br>
-### 🛠️ Tech Stack<br>- **Languages:** C, C++, JavaScript  <br>- **Frontend:** React.js,TailwindCSS  <br>- **Backend:** Spring Boot, Node.js, Express.js  <br>- **Databases:** MySQL, MongoDB, Firebase  <br>- **Other Tools:** Git, Vite, Eclipse, VS Code  <br><br>---<br><br>⭐️ *“Code. Learn. Build. Repeat.”*
-</center>
+### 🛠️ Tech Stack<br>- **Languages:** C, C++, Java, Python, JavaScript, TypeScript  <br>- **Frontend:** React.js, Flutter, TailwindCSS  <br>- **Backend:** Spring Boot, Node.js, Express.js  <br>- **Databases:** MySQL, MongoDB, Firebase  <br>- **Other Tools:** Git, Vite, Eclipse, VS Code  <br><br>---<br><br>⭐️ *“Code. Learn. Build. Repeat.”*</h1>
 
 ###
 
@@ -75,6 +73,24 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharaneesh-006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dharaneesh-006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=dharaneesh-006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=dharaneesh-006&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharaneesh-006&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dharaneesh-006/dharaneesh-006/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dharaneesh-006/dharaneesh-006/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dharaneesh-006/dharaneesh-006/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
