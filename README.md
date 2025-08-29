@@ -110,7 +110,7 @@
     </td>
     <td align="center">
       <a href="https://leetcode.com/u/dharaneesh006" target="_blank">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="52" height="40" alt="LeetCode" />
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="50" height="50" alt="LeetCode" />
       </a>
       <br/>LeetCode
     </td>
