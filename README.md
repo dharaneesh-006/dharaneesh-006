@@ -93,27 +93,31 @@
 ###
 
 <div align="center">
-  <div>
+  <div style="display: flex; flex-direction: column;">
     <a href="https://www.linkedin.com/in/dharaneeshsp/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
+    <p>Linkedin</p>
   </div>
   <div style="display: flex; flex-direction: column;">
     <a href="https://www.instagram.com/dharaneeshsp.006/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
     </a>
-    <p>instagram</p>
+    <p>Instagram</p>
   </div>
-  <div>
+  <div style="display: flex; flex-direction: column;">
     <a href="https://leetcode.com/u/dharaneesh006" target="_blank">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="52" height="40" alt="LeetCode"  />
     </a>
+    <p>Leetcode</p>
   </div>
-  <div>
+  <div style="display: flex; flex-direction: column;">
     <a href="https://www.geeksforgeeks.org/user/dharaneesh006/" target="_blank">
         <img src="https://img.icons8.com/color/96/GeeksforGeeks.png" width="52" height="40" alt="GFG" />
     </a>
+    <p>GeekforGeeks</p>
   </div>
+
 </div>
 
 ###
