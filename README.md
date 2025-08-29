@@ -100,7 +100,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://leetcode.com/u/dharaneesh006" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/80/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="52" height="40" alt="LeetCode"  />
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="52" height="40" alt="LeetCode"  />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dharaneesh006/" target="_blank">
+    <img src="https://img.icons8.com/color/96/GeeksforGeeks.png" width="52" height="40" alt="GFG" />
   </a>
 </div>
 
