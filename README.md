@@ -77,20 +77,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2025 - To: 20 September 2025
+From: 15 September 2025 - To: 22 September 2025
 
-Total Time: 8 hrs 52 mins
+Total Time: 7 hrs 19 mins
 
-JavaScript   3 hrs 36 mins   ██████████▒░░░░░░░░░░░░░░   40.68 %
-TypeScript   3 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   34.70 %
-C++          52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-JSON         47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   3 hrs 55 mins   █████████████▒░░░░░░░░░░░   53.64 %
+JavaScript   2 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   31.24 %
+Bash         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+JSON         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Text         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
