@@ -77,11 +77,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2025 - To: 23 November 2025
+From: 17 November 2025 - To: 24 November 2025
 
-Total Time: 0 secs
+Total Time: 14 mins
 
-No activity tracked
+Python       8 mins          ███████████████░░░░░░░░░░   60.36 %
+HTML         4 mins          ████████░░░░░░░░░░░░░░░░░   31.71 %
+JavaScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
 ```
 
 <!--END_SECTION:waka-->
