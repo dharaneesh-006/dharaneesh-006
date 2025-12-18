@@ -77,12 +77,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2025 - To: 16 December 2025
+From: 10 December 2025 - To: 17 December 2025
 
-Total Time: 10 mins
+Total Time: 1 hr 14 mins
 
-Markdown   9 mins          ████████████████████████░   95.60 %
-JSON       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Java       1 hr 4 mins     █████████████████████▓░░░   86.51 %
+Markdown   9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
