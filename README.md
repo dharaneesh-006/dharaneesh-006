@@ -77,12 +77,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2025 - To: 25 December 2025
+From: 19 December 2025 - To: 26 December 2025
 
-Total Time: 52 mins
+Total Time: 40 mins
 
-Java   30 mins         ██████████████▒░░░░░░░░░░   57.70 %
-C++    22 mins         ██████████▓░░░░░░░░░░░░░░   42.30 %
+Java   30 mins         ██████████████████▓░░░░░░   75.08 %
+C++    10 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
 ```
 
 <!--END_SECTION:waka-->
