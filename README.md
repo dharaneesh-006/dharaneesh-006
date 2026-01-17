@@ -77,16 +77,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2026 - To: 15 January 2026
+From: 09 January 2026 - To: 16 January 2026
 
-Total Time: 1 hr 5 mins
+Total Time: 33 mins
 
-C#           32 mins         ████████████▒░░░░░░░░░░░░   49.28 %
-XML          15 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
-TypeScript   9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Prolog       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Groovy       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Java         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+XML          15 mins         ███████████▒░░░░░░░░░░░░░   45.57 %
+TypeScript   9 mins          ███████▒░░░░░░░░░░░░░░░░░   28.85 %
+Prolog       3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+Groovy       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Java         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
