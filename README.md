@@ -77,15 +77,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2026 - To: 18 January 2026
+From: 12 January 2026 - To: 19 January 2026
 
-Total Time: 33 mins
+Total Time: 3 hrs 14 mins
 
-XML          15 mins         ███████████▒░░░░░░░░░░░░░   45.57 %
-TypeScript   9 mins          ███████▒░░░░░░░░░░░░░░░░░   28.85 %
-Prolog       3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Groovy       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-Java         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+TypeScript   1 hr 59 mins    ███████████████░░░░░░░░░░   59.89 %
+JavaScript   41 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
+Bash         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Git Config   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+XML          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
