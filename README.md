@@ -77,13 +77,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2026 - To: 06 February 2026
+From: 31 January 2026 - To: 07 February 2026
 
 Total Time: 4 hrs 40 mins
 
-C++     4 hrs 21 mins   ███████████████████████▒░   93.33 %
+C++     4 hrs 21 mins   ███████████████████████▒░   93.25 %
 Java    18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
