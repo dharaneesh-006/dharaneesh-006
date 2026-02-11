@@ -77,14 +77,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2026 - To: 09 February 2026
+From: 03 February 2026 - To: 10 February 2026
 
-Total Time: 3 hrs 19 mins
+Total Time: 3 hrs 9 mins
 
-C++     3 hrs 19 mins   █████████████████████████   99.71 %
-C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+C++   3 hrs 8 mins    █████████████████████████   99.89 %
+C     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
