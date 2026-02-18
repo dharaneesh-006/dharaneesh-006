@@ -3,25 +3,30 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # runs daily at 12 AM UTC (5:30 AM IST)
+    # Runs daily at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v3
+
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@v0.3.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-          ### 👇 Options to show everything
+          # Show full stats
           SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           TIME_RANGE: last_7_days
-          LANG_COUNT: 10        # show top 10 languages
+          LANG_COUNT: 10
           SHOW_LANGS: true
           SHOW_EDITORS: true
           SHOW_PROJECTS: true
