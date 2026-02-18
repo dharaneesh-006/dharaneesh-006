@@ -77,9 +77,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 19 hrs 38 mins
 
-No activity tracked
+C++          7 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   39.30 %
+TypeScript   7 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   36.33 %
+JavaScript   2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Java         1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Bash         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
