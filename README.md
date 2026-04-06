@@ -1,8 +1,8 @@
-<h1 align="center"># 👋 Hi, I'm Dharaneesh </h1> <br><br>💻 **Student | Developer | Tech Enthusiast**  <br><br>🚀 Passionate about exploring new technologies, building cool projects, and continuously learning.  <br>Currently diving deep into **Full-Stack Development (MERN, Spring Boot, Flutter)** and sharpening my problem-solving skills with <b>Competitive Programming</b>.  <br><br>
-### 🌟 About Me<br>- 🎓 CS Student always curious about **how things work**  <br>- 💡 Love turning ideas into **real-world applications**  <br>- 🔭 Currently learning **React, Spring Boot, and Firebase**  <br>- 🏆 Interested in **Competitive Programming & Open Source Contributions**  <br>- 🎯 Goal: Become a **versatile full-stack developer** and contribute to impactful projects  <br><br>
-### 🛠️ Tech Stack<br>- **Languages:** C, C++, Java, Python, JavaScript, TypeScript  <br>- **Frontend:** React.js, Flutter, TailwindCSS  <br>- **Backend:** Spring Boot, Node.js, Express.js  <br>- **Databases:** MySQL, MongoDB, Firebase  <br>- **Other Tools:** Git, Vite, Eclipse, VS Code  <br><br>---<br><br>⭐️ *“Code. Learn. Build. Repeat.”*
+<h1 align="center"># 👋 Hi, I'm Dharaneesh </h1> <br><br>💻 <b>Student | Developer | Tech Enthusiast</b>  <br><br>🚀 Passionate about exploring new technologies, building cool projects, and continuously learning.  <br>Currently diving deep into <b>Full-Stack Development (MERN, Spring Boot, Flutter)</b> and sharpening my problem-solving skills with <b>Competitive Programming</b>.  <br><br>
+<br> 🌟 About Me<br>- 🎓 CS Student always curious about <b>how things work<b>  <br>- 💡 Love turning ideas into <b>real-world applications<b>  <br>- 🔭 Currently learning <b>React, Spring Boot, and Firebase<b>  <br>- 🏆 Interested in <b>Competitive Programming & Open Source Contributions<b>  <br>- 🎯 Goal: Become a <b>versatile full-stack developer</b> and contribute to impactful projects  <br><br>
+<br> 🛠️ Tech Stack<br>- <b>Languages:</b> C, C++, Java, Python, JavaScript, TypeScript  <br>- <b>Frontend:</b> React.js, Flutter, TailwindCSS  <br>- <b>Backend:</b> Node.js, Express.js  <br>- <b>Databases:</b> MySQL, MongoDB, Firebase  <br>- <b>Other Tools:</b> Git, Vite, Eclipse, VS Code  <br><br>---<br><br>⭐️ *“Code. Learn. Build. Repeat.”*
 
-###
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
@@ -62,7 +62,7 @@
   <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="threejs logo"  />
 </div>
 
-###
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-###
+<br>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -87,7 +87,7 @@ CSS           12 mins         ▓░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-###
+<br>
 
 <div align="center">
 
@@ -95,7 +95,7 @@ CSS           12 mins         ▓░░░░░░░░░░░░░░░�
   
 </div>
 
-###
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dharaneesh-006/dharaneesh-006/output/pacman-contribution-graph-dark.svg">
@@ -103,7 +103,7 @@ CSS           12 mins         ▓░░░░░░░░░░░░░░░�
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dharaneesh-006/dharaneesh-006/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<br>
 
 <div align="center">
 
@@ -139,4 +139,4 @@ CSS           12 mins         ▓░░░░░░░░░░░░░░░�
 </div>
 
 
-###
+<br>
