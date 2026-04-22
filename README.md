@@ -77,13 +77,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 43 mins
+Total Time: 6 hrs 39 mins
 
-Java          3 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   41.64 %
-JavaScript    2 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░░   27.45 %
-C++           1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-HTML          36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Common Lisp   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Java          3 hrs 17 mins   ████████████░░░░░░░░░░░░░   48.21 %
+JavaScript    2 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   31.78 %
+HTML          36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Common Lisp   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+CSS           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
