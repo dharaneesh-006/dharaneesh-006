@@ -77,12 +77,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 mins
+Total Time: 8 mins
 
-Git Config   8 mins          ██████████▓░░░░░░░░░░░░░░   43.11 %
-Text         7 mins          █████████▒░░░░░░░░░░░░░░░   37.79 %
-Python       2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-C++          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Git Config   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
